@@ -2,7 +2,7 @@ import "./App.css";
 import CustomCursor from "./components/CustomCursor";
 import Hero from "./components/Hero";
 import Showreel from "./components/Showreel";
-import Work from "./components/work";
+import Work from "./components/Work";
 import Services from "./components/Services";
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <CustomCursor />
       <nav className="navbar">
         <div className="logo">
-          YOUR<span>STUDIO</span>
+          CORTOL<span>STUDIO</span>
         </div>
 
         <div className="nav-links">
